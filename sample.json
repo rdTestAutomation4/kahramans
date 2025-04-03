@@ -1,0 +1,30 @@
+{
+  "sample": {
+    "Personeller": [
+      {
+        "id": 1,
+        "isim": "Selin",
+        "soyisim": "Test",
+        "yas": 30,
+        "email": "selin.test@example.com",
+        "isPersonel": true
+      },
+      {
+        "id": 2,
+        "isim": "Selin1",
+        "soyisim": "Test1",
+        "yas": 28,
+        "email": "selin1.test1@example.com",
+        "isPersonel": true
+      },
+      {
+        "id": 3,
+        "isim": "Selin2",
+        "soyisim": "Test2",
+        "yas": 35,
+        "email": "selin2.test2@example.com",
+        "isPersonel": true
+      }
+    ]
+  }
+}
